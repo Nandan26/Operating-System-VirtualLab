@@ -25,6 +25,17 @@ You can visualize and play with the different algorithms of Deadlock and Concurr
 7. Binary Semaphore
 8. Counting Semaphore
 
+
+### Page Replacement Algorithm :
+
+You can visualize and compare various Page Replacement Algorithm with optimal
+
+1.First In First Out
+2.Last In First Out
+3.Least Recently Used
+4. belady's anomaly
+5.Comparision
+
 ### Scheduling Algorithm :
 
 You can visualize and play with the all 9 sheduling algorithm on this website.
@@ -49,21 +60,3 @@ git clone https://github.com/<your-github-username>/OS-virtual-lab.git
 ```
 
 Now you are good to go.
-
-## Contribution from
-
-### For Deadlock and concurrency with semaphore :
-
-Viren Sureja,
-Vidhan Patel,
-Tanmay Thaker,
-Krish Bhanushali,
-Jay Rank
-
-### For Scheduling Algorithms :
-
-Naimish Lukhi,
-Siddharth Patel,
-Dhruvil Lathiya,
-Amit Hirpara,
-Parva Barot
