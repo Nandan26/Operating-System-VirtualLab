@@ -28,13 +28,13 @@ You can visualize and play with the different algorithms of Deadlock and Concurr
 
 ### Page Replacement Algorithm :
 
-You can visualize and compare various Page Replacement Algorithm with optimal
+You can visualize and compare various Page Replacement Algorithm with optimal.
 
-1.First In First Out
-2.Last In First Out
-3.Least Recently Used
+1. First In First Out
+2. Last In First Out
+3. Least Recently Used
 4. belady's anomaly
-5.Comparision
+5. Comparision
 
 ### Scheduling Algorithm :
 
