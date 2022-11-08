@@ -1,8 +1,8 @@
 # Operating System Virtual Lab
 
-## Demo
+## Live Demo
 
-You can see demo [here](https://naim30.github.io/OS-virtual-lab/.)
+You can see live demo of Virtual Lab [here](https://nandan26.github.io/Operating-System-VirtualLab/)
 
 ## Languages
 
